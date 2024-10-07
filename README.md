@@ -1,5 +1,5 @@
 # 🔢 Conversor de Números (Decimal, Hexadecimal e Binário)
-Converta números binário, hexadecimais e binários
+Converta números (Decimal, Hexadecimal e Binário)
 
 Bem-vindo ao Conversor de Números!
 Este programa simples, porém poderoso, foi desenvolvido para facilitar a conversão entre três sistemas numéricos amplamente utilizados: Decimal, Hexadecimal e Binário. Com uma interface intuitiva e fácil de usar, você poderá realizar conversões rápidas e precisas entre esses formatos.
