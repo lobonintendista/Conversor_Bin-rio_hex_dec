@@ -26,11 +26,14 @@ Exemplo de Conversão Decimal:
 
 - Digite o valor Decimal: 255
 
-em seguida irá ter o resultado:
+Em seguida irá ter o resultado:
 
-Decimal: 255
-Hexadecimal: 0xFF
-Binário: 0000 0000 0000 0000 0000 0000 1111 1111
+- Decimal: 255
+
+- Hexadecimal: 0xFF
+
+- Binário: 0000 0000 0000 0000 0000 0000 1111 1111
+
 
 
 🧰 Como Usar
