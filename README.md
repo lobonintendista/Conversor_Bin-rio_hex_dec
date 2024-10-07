@@ -23,11 +23,11 @@ Escolha o formato de entrada:
 3. Binário
 --------------------------------------------
 Exemplo de Conversão Decimal:
-plaintext
-Copiar código
-Digite o valor Decimal: 255
 
-+ Exemplo de Conversão Decimal:
+- Digite o valor Decimal: 255
+
+em seguida irá ter o resultado:
+
 Decimal: 255
 Hexadecimal: 0xFF
 Binário: 0000 0000 0000 0000 0000 0000 1111 1111
