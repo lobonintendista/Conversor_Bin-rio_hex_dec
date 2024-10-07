@@ -42,7 +42,7 @@ Baixe o arquivo executável que já está pronto para  uso ou
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/conversor-de-numeros.git
+git clone [https://github.com/seu-usuario/conversor-de-numeros.git](https://github.com/lobonintendista/Conversor_de_numeros/tree/main)
 Compile o programa (Exemplo usando GCC):
 
 gcc conversor.c -o conversor
